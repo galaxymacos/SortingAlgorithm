@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\galax\source\repos\sortingalgorithm\sortingalgorithm\sorttesthelper.h(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\galax\source\repos\sortingalgorithm\sortingalgorithm\sorttesthelper.h(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SortingAlgorithm.vcxproj -> C:\Users\galax\source\repos\SortingAlgorithm\x64\Debug\SortingAlgorithm.exe
