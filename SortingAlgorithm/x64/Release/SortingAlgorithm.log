@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\galax\source\repos\sortingalgorithm\sortingalgorithm\sorttesthelper.h(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\galax\source\repos\sortingalgorithm\sortingalgorithm\sorttesthelper.h(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\galax\source\repos\sortingalgorithm\sortingalgorithm\quicksort.h(42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\galax\source\repos\sortingalgorithm\sortingalgorithm\quicksorttwoway.h(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\galax\source\repos\sortingalgorithm\sortingalgorithm\quicksortthreeways.h(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  5 of 90 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SortingAlgorithm.vcxproj -> C:\Users\galax\source\repos\SortingAlgorithm\x64\Release\SortingAlgorithm.exe
