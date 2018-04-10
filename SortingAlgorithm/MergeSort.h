@@ -9,15 +9,11 @@ void merge_sort(T arr[], int n)
 template <class T>
 void __merge_sort(T arr[], int l, int r)
 {
-	// if the subarray has fewer than 15 elements, use insertion sort instead
 	if (r - l < 15)
 	{
 		insertion_sort(arr, l, r);
 		return;
 	}
-
-	//	if (l >= r)
-	//		return;
 
 	int mid = (l + r) / 2;
 	__merge_sort(arr, l, mid);

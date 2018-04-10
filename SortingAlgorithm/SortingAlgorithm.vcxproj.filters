@@ -47,5 +47,14 @@
     <ClInclude Include="QuickSortThreeWays.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="InversionCount.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RankElementInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="selection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -24,11 +24,14 @@
   <ItemGroup>
     <ClInclude Include="BubbleSort.h" />
     <ClInclude Include="InsertionSort.h" />
+    <ClInclude Include="InversionCount.h" />
     <ClInclude Include="MergeSort.h" />
     <ClInclude Include="MergeSortBottomUp.h" />
     <ClInclude Include="QuickSort.h" />
     <ClInclude Include="QuickSortThreeWays.h" />
     <ClInclude Include="QuickSortTwoWay.h" />
+    <ClInclude Include="RankElementInArray.h" />
+    <ClInclude Include="selection.h" />
     <ClInclude Include="SelectionSort.h" />
     <ClInclude Include="SortTestHelper.h" />
   </ItemGroup>
